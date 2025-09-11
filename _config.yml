@@ -1,0 +1,43 @@
+title: "Technical Learning, Career Path Guide"
+description: "A resource hub for technical learning, skill-building, and career growth guidance."
+theme: minima
+
+# URL settings
+baseurl: "" # keep blank if hosted at root (username.github.io)
+url: "https://vithohba.github.io"
+
+# Author details
+author:
+  name: "Technical Learning, Career Path Guide"
+  email: "contact@yourcompany.com"
+
+# Social links (update if needed)
+social_links:
+  linkedin: "https://linkedin.com/company/vithobha"
+  github: "https://github.com/vithobha"
+  twitter: "https://twitter.com/vithobha"
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Learning Paths"
+    url: /learning-paths/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
