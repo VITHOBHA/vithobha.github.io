@@ -1,0 +1,64 @@
+[
+  {
+    "id": 18727,
+    "title": "Instructor Led Course : AI Data Science Using Databricks (40 Hours)",
+    "link": "https://lms.vithobha.com/courses/ai-data-science-using-databricks/",
+    "description": "This is 40-hour, instructor-led program ,AI Data Science Using Databricks",
+    "price": "1,200.00",
+    "offer-price": "899.00"
+  },
+  {
+    "id": 18659,
+    "title": "Instructor Led Course : Snowflake Data Cloud/SnowPro Core (40 Hours)",
+    "link": "https://lms.vithobha.com/courses/snowflake-data-cloud-snowpro-core/",
+    "description": "Instructor-Led Course: Snowflake Data Cloud / SnowPro Core (40 Hours)  , SnowPro Core certification program",
+    "price": "1,200.00",
+    "offer-price": "899.00"
+  },
+  {
+    "id": 18101,
+    "title": "Instruction Led Course : ML and AI with Microsoft Fabric  (60 Hours )",
+    "link": "https://lms.vithobha.com/courses/ml-and-ai-with-microsoft-fabric-15-days/",
+    "description": "Instructor-Led Course: ML and AI with Microsoft Fabric (60 Hours) This comprehensive 60-hour instructor-led program , certification DP-600 , DP -900",
+    "price": "1,200.00",
+    "offer-price": "899.00"
+  },
+  {
+    "id": 18050,
+    "title": "Instructor Led Course : AI, ML and Azure Databricks (40 Hours )",
+    "link": "https://lms.vithobha.com/courses/introduction-to-ai-ml-and-azure-databricks/",
+    "description": "Instructor-Led Course: AI, ML, and Azure Databricks (40 Hours) This 40-hour",
+    "price": "1,200.00",
+    "offer-price": "899.00"
+  },
+  {
+    "id": 17989,
+    "title": "Instructor Led Course : ML and AI With Azure (60 Hours)",
+    "link": "https://lms.vithobha.com/courses/ml-and-ai-with-azure/",
+    "description": "Instructor-Led Course: ML and AI with Azure (60 Hours) This comprehensive program is designed for...",
+    "price": "1,200.00",
+    "offer-price": "899.00"
+  },
+  {
+    "id": 17785,
+    "title": "Instructor Led Course : Databricks Data Engineering and Analytics on Azure Cloud (60 Hours)",
+    "link": "https://lms.vithobha.com/courses/databricks-data-engineering-and-analytics-on-azure-cloud/",
+    "description": "This comprehensive 60-hour instructor-led course is designed to equip professionals with hands-on expertise in building,..",
+    "price": "1,200.00",
+    "offer-price": "899.00"
+  },
+  {
+    "id": 17761,
+    "title": "Instructor Led Course : Data Engineering with Snowflake in Azure Cloud (60 hours )",
+    "link": "https://lms.vithobha.com/courses/data-engineering-with-snowflake-in-azure-cloud/",
+    "description": "This immersive 60-hour instructor-led program is designed for professionals aiming to build strong expertise in...",
+    "price": "1,200.00"
+  },
+  {
+    "id": 17663,
+    "title": "Instructor Led Course : Analytics Engineering with Microsoft Fabric and Azure (60 Hours)",
+    "link": "https://lms.vithobha.com/courses/analytics-engineering-with-microsoft-fabric-and-azure/",
+    "description": "This comprehensive instructor-led program Analytics Engineering with Microsoft Fabric and Azure",
+    "price": "1,200.00"
+  }
+]
